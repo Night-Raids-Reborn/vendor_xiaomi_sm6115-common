@@ -696,6 +696,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfastcvopt \
+    libspatialaudio \
     CneApp \
     IWlanService \
     TimeService \
